@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Trirong", serif;
+}
+
+.container {
+    background: url(./pexels-asad-photo-maldives-3155666.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav {
+    background-color: lightpink;
+    padding: 2%;
+    background-attachment: fixed;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li {
+    list-style-type: none;
+    font-size: 28px;
+    letter-spacing: 1.3px;
+    font-weight: bolder;
+    color: lightslategray;
+}
+
+select {
+    width: 900px;
+    height: 80px;
+    border-radius: 10px;
+    outline: none;
+    border: 2px solid white;
+    font-size: 30px;
+    font-size: 30px;
+    padding-left: 20px;
+    letter-spacing: 2px;
+    word-spacing: 1.3px;
+    color: tomato;
+}
+
+.navbar {
+    padding-top: 24px;
+}
+
+option {
+    color: darkslategray;
+}
+
+.bodytext {
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+h1 {
+    font-size: 160px;
+    letter-spacing: 1.3px;
+    color: khaki;
+}
+
+#bodytextpara {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 1.3px;
+}
+
+.aboutdubai {
+    height: 50vh;
+    display: flex;
+    padding: 5%;
+    font-size: 30px;
+    letter-spacing: 1.3px;
+}
+
+.text1 {
+    width: 60%;
+    border: 2px solid lightslategrey;
+    margin-right: 5%;
+    text-align: center;
+    line-height: -2px;
+    padding-top: 4%;
+    box-shadow: 2px 2px 2px seagreen;
+}
+
+.text2 {
+    width: 30%;
+    border: 2px solid lightslategrey;
+    padding-top: 4%;
+    text-align: center;
+    box-shadow: 2px 2px 2px seagreen;
+}
+
+input {
+    font-size: 50px;
+    width: 50px;
+}
+
+h3 {
+    font: 40px;
+    color: maroon;
+}
+
+.para {
+    color: olive;
+    font-size: 34px;
+}
+
+.box1 {
+    color: olive;
+    line-height: -2px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    padding: 2%;
+}
+
+.firstimage {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    margin-right: 30%;
+}
+
+.Secondimage {
+    border: 2px solid white;
+    border-radius: 10x;
+    margin-bottom: 3%;
+    margin-right: 30%;
+}
+
+.Thirdimage {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    margin-right: 30%;
+}
+
+.Fourthimage {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    margin-right: 30%;
+}
+
+.Fithimage {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    margin-right: 30%;
+}
+
+a {
+    font-size: 50px;
+    text-transform: uppercase;
+    text-decoration: none;
+    float: right;
+    padding-top: 9%;
+    padding-right: 7%;
+    color: white;
+}
+
+.images {
+    background-color: steelblue;
+    display: flex;
+}
+
+.imgg {
+    width: 70%;
+    margin-left: 5%;
+    padding-top: 2%;
+}
+
+.places {
+    padding-top: 40%;
+    width: 30%;
+}
+
+h2 {
+    font-family: "Sofia", sans-serif;
+    font-size: 100px;
+    text-shadow: 3px 3px 3px #ababab;
+    padding-right: 5%;
+}
+
+#placetext {
+    font-size: 40px;
+}
+
+.container1 {
+    background-color: lightskyblue;
+}
